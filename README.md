@@ -1,3 +1,6 @@
+https://mariomucalo.com/lets-encrypt-on-windows-server-2012-r2-and-iis-8-5/  ( http(*)s ) bind and more @Clark
+
+
 # Windows ACME Simple (WACS)
 A simple ACME client for Windows - for use with Let's Encrypt. (Formerly known as letsencrypt-win-simple (LEWS))
 
